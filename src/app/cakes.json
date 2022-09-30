@@ -1,0 +1,135 @@
+{
+    "cakes": [
+        {
+            "id": 1,
+            "name": "Fruit Cake",
+            "price": 20,
+            "rating": 4.4,
+            "description": "Who says the right place of fruits is just in the fridge or dining table? How about the toppings on a cake? If you love fruit so much then give this delicious flavorful fruit cake a try. We are sure you won't regret the taste. A delicious choice for every occasion."
+        },
+        {
+            "id": 2,
+            "name": "Classic Cheesecake",
+            "price": 39,
+            "rating": 4.2,
+            "description": "The perfect cheesecake for Fall! This seasonal delight has the taste of the classic cheesecake you love, swirled with pumpkin flavor."
+        },
+        {
+            "id": 3,
+            "name": "Monster Theme Cake",
+            "price": 55,
+            "rating": 4.3,
+            "description": "Many of you have an interest in games. Then add some vibe to your game with the fondant-type Cookies Monster Cake. It is an excellent choice of cake for any game lover who loves a slice of cake. Playing games continuously may bore you, then enjoy some bits of cake to overcome your boredom."
+        },
+        {
+            "id": 4,
+            "name": "Pumpkin Spice Cupcakes",
+            "price": 60,
+            "rating": 4.5,
+            "description": "These hearty pumpkin cupcakes are topped with a cinnamon cream cheese frosting. Delicious in the fall for a tasty treat."
+        },
+        {
+            "id": 5,
+            "name": "Homemade Cookies Cream Cake",
+            "price": 28,
+            "rating": 4.7,
+            "description": "This cookies & cream sheet cake combines a soft and buttery white cake with plenty of sweet Oreo cookies.This is a fun, simple, and manageable cake for a crowd of Oreo lovers!"
+        },
+        {
+            "id": 6,
+            "name": "Easter Cupcakes",
+            "price": 15,
+            "rating": 4.1,
+            "description": "Crowd-pleasing Easter Cupcakes feature a moist chocolate cupcake base, coconut buttercream frosting, toasted coconut, and Easter egg candies on top! Can be made ahead of time."
+        },
+        {
+            "id": 7,
+            "name": "Chocolate Summer Berries",
+            "price": 30,
+            "rating": 4.3,
+            "description": "This silky Dark Milk chocolate cake is topped with strawberries, blueberries and cherries, perfect for a summer Christmas!"
+        },
+        {
+            "id": 8,
+            "name": "Muffin Devil Horns",
+            "price": 25,
+            "rating": 4.9,
+            "description": "These Adorable Devil Cupcakes are literally the cutest. No matter if you are celebrating the birthday of your “cute little devil” or you’re looking for some fun devil cupcakes for Halloween, these chocolate cake cupcakes are going to be so much fun to make!"
+        },
+        {
+            "id": 9,
+            "name": "Berries Summer Cupcakes",
+            "price": 24,
+            "rating": 4.2,
+            "description": "These Berries and Cream Cupcakes are made with moist vanilla cake, whipped almond filling and mixed berry frosting! They’re topped with more fresh berries for a cupcake that’s delicious and perfect for summer!"
+        },
+        {
+            "id": 10,
+            "name": "Brownies Different Flavor",
+            "price": 27,
+            "rating": 4.9,
+            "description": "Brownies are a worldwide-famous cake-like dessert, including mostly chocolate. You may find brownies in thousands of different forms! They can be cakey or fudgy, depending mostly on the density of each type. You can always serve it with milk or ice cream."
+        },
+        {
+            "id": 11,
+            "name": "Cherry Jelly Cheesecake",
+            "price": 32,
+            "rating": 5.0,
+            "description": "No-bake cherry cheesecake is a fresh and tasty way to appreciate the beauty of this red and juicy fruit."
+        },
+        {
+            "id": 12,
+            "name": "Chocolate Blueberries Cake",
+            "price": 35,
+            "rating": 4.8,
+            "description": "No-bake cherry cheesecake is a fresh and tasty way to appreciate the beauty of this red and juicy fruit."
+        },
+        {
+            "id": 13,
+            "name": "Chocolate Cupcake",
+            "price": 28,
+            "rating": 4.5,
+            "description": "Chocolate cupcakes are the ultimate party food. These are super moist and bursting with rich, chocolaty flavor — and they're so easy to make. Frost these delicious chocolate cupcakes with buttercream or cream cheese frosting, or try royal icing or even whipped cream."
+        },
+        {
+            "id": 14,
+            "name": "Isometric chocolate brownies",
+            "price": 20,
+            "rating": 4.7,
+            "description": "Chocolate fudge brownie isometric piece set. It is traditional, with nuts and cocoa frosting. classic chocolate."
+        },
+        {
+            "id": 15,
+            "name": "Muffin Ghost",
+            "price": 24,
+            "rating": 4.9,
+            "description": "Nothing is as it seems on Halloween! This ghostly apparition appears to be a cake. In fact, it's a cleverly disguised arrangement of cupcakes."
+        },
+        {
+            "id": 16,
+            "name": "Butter Cookies",
+            "price": 10,
+            "rating": 5.0,
+            "description": "These crisp, delicious butter cookies have lots of amazing butter flavor and a melt in your mouth consistency that will have you coming back for more."
+        },
+        {
+            "id": 17,
+            "name": "Chocolate Bonbons",
+            "price": 15,
+            "rating": 4.9,
+            "description": "These beautiful chocolate bonbons are made with tempered dark chocolate and filled with a delicious milk chocolate ganache. This easy technique for painted cocoa butter shells is so impressive no one will believe these are homemade."
+        },
+        {
+            "id": 18,
+            "name": "Chocolate Cookies",
+            "price": 17,
+            "rating": 5.0,
+            "description": "A chocolate chip cookie is a drop cookie that features chocolate chips or chocolate morsels as its distinguishing ingredient."
+        }
+
+
+
+
+
+    ]
+}

@@ -1,0 +1,49 @@
+<!-- <mat-toolbar color="accent">
+    <button type="button" aria-label="Toggle sidenav" mat-icon-button (click)="drawer.toggle()">
+        <mat-icon aria-label="Side nav toggle icon">menu</mat-icon>
+    </button>
+    <a routerLink="/"><span>BakeMyCake</span></a>
+    <a routerLink="/" id="home" mat-stroked-button>
+        <mat-icon matTooltip="Home Page" matTooltipClass="example-tooltip-red">home</mat-icon>
+    </a>
+
+    <mat-icon matTooltip="support@bakemycake.com" matTooltipClass="example-tooltip-red">email</mat-icon>
+
+    <mat-icon matTooltip="Add to Cart" matTooltipClass="example-tooltip-red">add_shopping_cart</mat-icon>
+
+    <mat-icon matTooltip="Call" matTooltipClass="example-tooltip-red">call</mat-icon>
+
+
+</mat-toolbar>
+<mat-sidenav-container class="sidenav-container">
+    <mat-sidenav #drawer class="sidenav" fixedInViewport [attr.role]="'navigation'" [mode]="'push'" [opened]="false">
+        <mat-nav-list>
+            <a mat-list-item routerLink="/">Home</a>
+            <a mat-list-item routerLink="order">Place an Order</a>
+            <a mat-list-item routerLink="#">Customer Feedback</a>
+        </mat-nav-list>
+    </mat-sidenav>
+    <mat-sidenav-content>
+        <router-outlet></router-outlet>
+    </mat-sidenav-content>
+</mat-sidenav-container> -->
+<mat-toolbar color="accent">
+    <mat-toolbar-row>
+        <app-header></app-header>
+    </mat-toolbar-row>
+
+    <mat-toolbar-row>
+        <div class="gift-menu-link">
+            <a>CAKES</a>
+            <a>CUPCAKES</a>
+            <a>CHEESECAKES</a>
+            <a>COOKIES</a>
+            <a>BROWNIES</a>
+            <a>CHOCLATES</a>
+
+        </div>
+
+    </mat-toolbar-row>
+
+</mat-toolbar>
+<router-outlet></router-outlet>

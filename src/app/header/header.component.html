@@ -1,0 +1,27 @@
+<div>
+    <form>
+        <mat-form-field appearance="legacy">
+            <mat-label>Birthday Gifts</mat-label>
+            <mat-select>
+                <mat-option *ngFor="let gifts of birthdayGifts" [value]="gifts">{{gifts}}</mat-option>
+            </mat-select>
+        </mat-form-field>
+        <mat-form-field appearance="legacy">
+            <mat-label>Occassions</mat-label>
+            <mat-select>
+                <mat-option *ngFor="let occassion of occassion" [value]="occassion">{{occassion}}</mat-option>
+            </mat-select>
+        </mat-form-field>
+    </form>
+    <a style="text-decoration: none" routerLink="/"><h1>Bake My Cake!<br><span style="font-size: 20px;">Celebrate your moment</span></h1></a>
+</div>
+
+<div class="icon">
+    <a routerLink="/"><mat-icon matTooltip="Home" aria-hidden="false" style="margin-right:30px;" aria-label="Example home icon"
+        fontIcon="home"></mat-icon></a>
+    <mat-icon matTooltip="Add to Cart" style="margin-right:30px;" matTooltipClass="example-tooltip-red">
+        add_shopping_cart</mat-icon>
+    <mat-icon matTooltip="support@bakemycake.com" style="margin-right:30px;" matTooltipClass="example-tooltip-red">email
+    </mat-icon>
+    <mat-icon matTooltip="Call" matTooltipClass="example-tooltip-red">call</mat-icon>
+</div>

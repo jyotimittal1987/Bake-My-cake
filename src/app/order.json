@@ -1,0 +1,34 @@
+{
+  "orders": [
+    {
+      "firstName": "John",
+      "lastName": "Doe",
+      "contact": "9865212512",
+      "email": "john@gmail.com",
+      "deliveryDate": "2022-09-26T18:30:00.000Z",
+      "quantity": 1,
+      "weight": "250 gram",
+      "address": "100 Main St",
+      "city": "San Francisco",
+      "state": "California",
+      "postalCode": "94105",
+      "description": "Happy Birthday",
+      "id": 1
+    },
+    {
+      "firstName": "Lokesh",
+      "lastName": "Bhog",
+      "contact": "9865212512",
+      "email": "lokesh.bhog@niit.com",
+      "deliveryDate": "2022-09-29T18:30:00.000Z",
+      "quantity": 1,
+      "weight": "500 gram",
+      "address": "f-105",
+      "city": "Delhi",
+      "state": "Delhi",
+      "postalCode": "11897",
+      "description": "Happy Birthday Lokesh !!",
+      "id": 2
+    }
+  ]
+}
